@@ -1,1 +1,8 @@
-Zmiana_z_maina 
+<<<<<<< HEAD
+
+=======
+
+>>>>>>> konflikt-test
+
+Zmiana\_z\_maina\_i\_galezi
+
